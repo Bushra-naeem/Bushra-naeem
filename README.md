@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bushra.</h1>
 <h3 align="center">An enthusiast learner.</h3>
 
-- 🌱 I’m currently learning **nodejs.**
+- 🌱 I’m currently learning **Reactjs.**
 
 - 📫 How to reach me **bushranaeem941@gmail.com**
 
