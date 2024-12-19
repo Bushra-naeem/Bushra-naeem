@@ -1,6 +1,7 @@
 # Hey, I’m Bushra 👩‍💻
 
-I'm a **Frontend Developer** dedicated to turning ideas into functional web designs. Passionate about writing clean, efficient code and building intuitive interfaces. Always exploring new technologies and leveling up my skills. Let's create something beautiful together. ✨
+I'm a **Frontend Developer** dedicated to turning ideas into functional web designs. Passionate about writing clean, efficient code and building intuitive interfaces. Always exploring new technologies and leveling up my skills. 
+Let's create something beautiful together. ✨
 
 ---
 
@@ -18,6 +19,9 @@ I'm a **Frontend Developer** dedicated to turning ideas into functional web desi
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/RESTful_APIs-00A1D6?style=flat-square&logo=rest&logoColor=white" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design" /> 
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" /> 
+  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Context API" /> 
 </div>
 
 ### 🛠️ Tools & Platforms:
