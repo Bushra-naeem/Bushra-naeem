@@ -1,7 +1,6 @@
 # Hey, I’m Bushra 👩‍💻
 
-I'm a **Frontend Developer** dedicated to turning ideas into functional web designs. Passionate about writing clean, efficient code and building intuitive interfaces. Always exploring new technologies and leveling up my skills. 
-Let's create something beautiful together. ✨
+I'm a **Frontend Developer** dedicated to turning ideas into functional web designs. Passionate about writing clean, efficient code & building intuitive interfaces. Always exploring new technologies and leveling up my skills. Let's create something beautiful together✨
 
 ---
 
