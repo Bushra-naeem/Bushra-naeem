@@ -5,7 +5,7 @@ I'm a **Frontend Developer** dedicated to turning ideas into functional web desi
 ---
 
 ### 🛠️ Tech Stack:
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -20,10 +20,8 @@ I'm a **Frontend Developer** dedicated to turning ideas into functional web desi
   <img src="https://img.shields.io/badge/RESTful_APIs-00A1D6?style=flat-square&logo=rest&logoColor=white" alt="RESTful APIs" />
 </div>
 
----
-
 ### 🛠️ Tools & Platforms:
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
@@ -35,9 +33,8 @@ I'm a **Frontend Developer** dedicated to turning ideas into functional web desi
 
 ---
 
-
-### 📫 Connect with Me:
-<div align="center">
+### Connect with Me:
+<div>
   <a href="https://www.linkedin.com/in/bushra-naeem-5b9329246/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -46,7 +43,5 @@ I'm a **Frontend Developer** dedicated to turning ideas into functional web desi
   </a>
 </div>
 
----
-
-### 🌐 Portfolio:
+### Portfolio:
 **Check out my work here: [bushra.dev](https://bushra-portfolio-website.netlify.app/)**
