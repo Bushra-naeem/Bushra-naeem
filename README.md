@@ -47,4 +47,4 @@ I'm a **Frontend Developer** dedicated to turning ideas into functional web desi
 </div>
 
 ### Portfolio:
-**Check out my work here: [bushra.dev](https://bushra-dev.vercel.app/)**
+**Check out my work here: [My Portfolio](https://bushra-dev.vercel.app/)**
