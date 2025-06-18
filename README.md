@@ -1,6 +1,15 @@
 # Hey, I’m Bushra
 
-I'm a **Software Engineer**. Fan of nextjs and tailwindcss. love to write javascript code and create new technologies. Let's create something beautiful together✨
+I'm a **Software Engineer**. Fan of nextjs and tailwindcss. love to write javascript code and create new technologies. 
+For the past two years, I’ve been building applications, especially in frontend development. I love creating visually appealing, responsive, and interactive user interfaces. Writing clean, structured, and maintainable code is something I care deeply about, and I’m always working to improve.
+
+I'm comfortable working with:
+→ Reactjs, Nextjs and Tailwindcss
+→ API Integration
+→ Responsive design and accessibility best practices
+→ Collaborating with teams and integrating feedback to build better products
+
+When I’m not coding, I read non-fiction books and spend time on my phone exploring tech content and new ideas. I’m always curious and love learning something new.
 
 ---
 
