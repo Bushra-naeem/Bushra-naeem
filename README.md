@@ -1,14 +1,7 @@
-# Hey, I’m Bushra
-
-I'm a **Software Engineer**. Fan of nextjs and tailwindcss. love to write javascript code and create new technologies. 
+Hey I'm [Bushra](https://bushra-dev.vercel.app/), a frontend **Software Engineer**. Fan of nextjs and tailwindcss. love to write javascript code and create new technologies. 
 For the past two years, I’ve been building applications, especially in frontend development. I love creating visually appealing, responsive, and interactive user interfaces. Writing clean, structured, and maintainable code is something I care deeply about, and I’m always working to improve.
 
 When I’m not coding, I read non-fiction books and spend time on my phone exploring tech content and new ideas. I’m always curious and love learning something new.
-
----
-
-### My Portfolio:
-**Check out my work here: [Portfolio](https://bushra-dev.vercel.app/)**
 
 ### Connect with Me:
 <div>
