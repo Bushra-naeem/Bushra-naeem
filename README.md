@@ -7,6 +7,9 @@ When I’m not coding, I read non-fiction books and spend time on my phone explo
 
 ---
 
+### My Portfolio:
+**Check out my work here: [Portfolio](https://bushra-dev.vercel.app/)**
+
 ### Connect with Me:
 <div>
   <a href="https://www.linkedin.com/in/bushra-naeem-5b9329246/" target="_blank">
@@ -16,6 +19,3 @@ When I’m not coding, I read non-fiction books and spend time on my phone explo
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
-### Portfolio:
-**Check out my work here: [My Portfolio](https://bushra-dev.vercel.app/)**
